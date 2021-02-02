@@ -36,6 +36,11 @@
       "course_id": "Kubeflow Fairing",
       "title": "Kubeflow Fairing",
       "description": "How to deploy a model with kubeflow fairing"
+    },
+    {
+      "course_id": "Kale",
+      "title": "Kale",
+      "description": "How to create and run a pipeline off your notebook using Kale"
     }
   ]
 }
